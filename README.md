@@ -7,5 +7,5 @@
 
 ## Video Showcase
 <a href="https://www.youtube.com/watch?v=hSh61juxavE">
-  <img src="https://img.youtube.com/vi/hSh61juxavE/maxresdefault.jpg" width="600">
+  <img src="https://img.youtube.com/vi/hSh61juxavE/maxresdefault.jpg?=v2" width="600">
 </a>
